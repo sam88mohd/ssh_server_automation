@@ -1,0 +1,2 @@
+python-dotenv==0.20.0
+python-env==1.0.0
